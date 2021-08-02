@@ -30,7 +30,7 @@
     "description": "Add header level 6"
   },
   "Links": {
-    "prefix": ["l", "link"],
+    "prefix": ["ln", "link"],
     "body": ["[${1}](${2}) ${0}"],
     "description": "Add links"
   },
